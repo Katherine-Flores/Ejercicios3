@@ -1,0 +1,3 @@
+C:/Users/kathe/CLionProjects/Repaso/cmake-build-debug/CMakeFiles/Repaso.dir
+C:/Users/kathe/CLionProjects/Repaso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kathe/CLionProjects/Repaso/cmake-build-debug/CMakeFiles/rebuild_cache.dir
